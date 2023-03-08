@@ -1,0 +1,41 @@
+﻿month,mode,count
+12,Car,194
+12,Walk,271
+12,Cycle,974
+12,Public Transport,209
+12,Other,930
+11,Car,727
+11,Walk,250
+11,Cycle,985
+11,Public Transport,825
+11,Other,832
+10,Car,464
+10,Walk,479
+10,Cycle,282
+10,Public Transport,245
+10,Other,339
+9,Car,706
+9,Walk,48
+9,Cycle,796
+9,Public Transport,314
+9,Other,574
+8,Car,768
+8,Walk,910
+8,Cycle,16
+8,Public Transport,67
+8,Other,960
+7,Car,914
+7,Walk,709
+7,Cycle,800
+7,Public Transport,925
+7,Other,286
+6,Car,782
+6,Walk,432
+6,Cycle,645
+6,Public Transport,349
+6,Other,434
+5,Car,17
+5,Walk,176
+5,Cycle,49
+5,Public Transport,481
+5,Other,333
